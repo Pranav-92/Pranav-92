@@ -12,17 +12,17 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> Currently diving deeper into **LlamaIndex**  
+- <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> Currently diving deeper into **Regularization**  
 - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px" hspace="3"> Actively open to collaborations on **Generative AI projects**  
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/hyperkitty.gif" width="24px" hspace="4"> Explore my work at: [**My Portfolio**](https://adityas266.github.io/portfolio/)  
-- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px" hspace="9"> Ask me about: **DSA, Python, LlamaIndex, LangGraph, MongoDB, Azure Database**  
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px" hspace="9"> Ask me about: **DSA, Python, MongoDB, Azure Database**  
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px" hspace="3"> Reach out: **contactpranavraorane9@gmail.com**
 
 
 <h3 align="left" fontsize="">Connect with me:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px" hspace="10px"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-shukla-developer" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
-<a href="https://twitter.com/adityashuk85449" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
+<a href="https://www.linkedin.com/in/pranav-raorane-19743322b/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
+<a href="https://x.com/Pranav_Raorane9" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
 <a href="https://instagram.com/adityashukla1185" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
 <a href="mailto:contactadityashukla@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
 </p>
