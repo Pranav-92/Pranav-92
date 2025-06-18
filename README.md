@@ -3,8 +3,8 @@
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Pranav Raorane </h1>
 <h1 align="center">
     <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=I'm+a+Generative+AI+Developer;I'm+a+Python+Backend+Developer;I'm+a+Data+Engineer" 
-  alt="Dynamic Typing Effect: I'm a Generative AI Developer, Python Backend Developer, and Data Engineer" 
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=I'm+a+Data+Scientist;I'm+a+Python+Backend+Developer;I'm+a+Data+Engineer" 
+  alt="Dynamic Typing Effect: I'm a Data Scientist, Python Backend Developer, and Data Engineer" 
 />
 </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityas266&theme=radical&row=1&column=&10no-frame=false&no-bg=true&margin-w=4" alt="adityas266" /></a>
@@ -16,7 +16,7 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px" hspace="3"> Actively open to collaborations on **Generative AI projects**  
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/hyperkitty.gif" width="24px" hspace="4"> Explore my work at: [**My Portfolio**](https://adityas266.github.io/portfolio/)  
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px" hspace="9"> Ask me about: **DSA, Python, LlamaIndex, LangGraph, MongoDB, Azure Database**  
-- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px" hspace="3"> Reach out: **contactadityashukla@gmail.com**
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px" hspace="3"> Reach out: **contactpranavraorane9@gmail.com**
 
 
 <h3 align="left" fontsize="">Connect with me:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px" hspace="10px"></h3>
