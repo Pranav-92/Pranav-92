@@ -58,7 +58,7 @@
 | TweetMoodify | - | [view](https://github.com/Adityas266/Twitter_Sentiment_Analysis) | `Python` `Tweepy` `TextBlob` `Pandas` `Matplotlib` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="2" />
-<h3>Github Stats:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/stats.gif" width="28px"></h3>
+<h3>Github Stats:<img src="https://github.com/Adityas266/Pranav-92/blob/main/images/stats.gif" width="28px"></h3>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Adityas266&show_icons=true&theme=radical" alt="GitHub Stats" /> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Adityas266&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityas266&theme=radical" alt="GitHub Streak" /></a> |
 |--------------- | --------------- |
@@ -68,6 +68,7 @@
     <img src="https://github.com/Adityas266/Adityas266/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="2" />
+
 
 
 
