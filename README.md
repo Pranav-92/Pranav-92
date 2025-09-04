@@ -62,11 +62,12 @@
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Adityas266&show_icons=true&theme=radical" alt="GitHub Stats" /> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Adityas266&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityas266&theme=radical" alt="GitHub Streak" /></a> |
 |--------------- | --------------- |
-| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Adityas266&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" alt="GitHub Activity Graph" width="600"/>|
+| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Pranav-92&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" alt="GitHub Activity Graph" width="600"/>|
 
 <p align="center">
     <img src="https://github.com/Adityas266/Adityas266/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="2" />
+
 
 
